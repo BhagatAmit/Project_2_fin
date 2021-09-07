@@ -9,6 +9,10 @@ Angular- version 10
 # Features:
 
 Application requires the registion of a donator using general detials and ther approval from the member.
+
 The member acts as a transporter that connects the donators and the receipients.
+
 The application allows the member to see all the detials of the donators and the list.
+
 The application allows the member to see all the detials of the reciepents and the list.
+
