@@ -2,9 +2,16 @@
 The Application concerns with the issue of the recent time which concerns a lot of people today. The application help the people in need by allowing people with good heart by providing them a platform to donate some of their stuffs to the people in need. 
 
 # Technologies Used:
+Spring Boot
+Spring Data
+Angular 10
+Log4J
+JUnit4
+HTML5
 CSS
-HTML -version 5
-Angular- version 10
+TypeScript
+Bootstrap
+
 
 # Features:
 
