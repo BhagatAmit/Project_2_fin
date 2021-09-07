@@ -3,13 +3,21 @@ The Application concerns with the issue of the recent time which concerns a lot 
 
 # Technologies Used:
 Spring Boot
+
 Spring Data
+
 Angular 10
+
 Log4J
+
 JUnit4
+
 HTML5
+
 CSS
+
 TypeScript
+
 Bootstrap
 
 
