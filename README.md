@@ -23,19 +23,19 @@ Bootstrap
 
 # Features:
 
-*Application requires the registion of a donator using general detials and ther approval from the member.
+* Application requires the registion of a donator using general detials and ther approval from the member.
 
-*The member acts as a transporter that connects the donators and the receipients.
+* The member acts as a transporter that connects the donators and the receipients.
 
-*The application allows the member to see all the detials of the donators and the list.
+* The application allows the member to see all the detials of the donators and the list.
 
-*The application allows the member to see all the detials of the reciepents and the list.
+* The application allows the member to see all the detials of the reciepents and the list.
 
- *As the system, I reject invalid details.
+ * As the system, I reject invalid details.
  
- *As a donator, I can donate resources such as food, clothes, daily utility stuffs and various different things. 
+ * As a donator, I can donate resources such as food, clothes, daily utility stuffs and various different things. 
  
  * As a donator, I will receive badges as my progress meter increases. 
- * 
+  
  * As a receiver, I can login and give feedback to the transporter and the donator. 
 
